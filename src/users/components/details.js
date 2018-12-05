@@ -39,7 +39,7 @@ class Details extends Component  {
            }
       )
 
-    const result = newAct.filter(obj => obj.completed == true);
+    const result = newAct.filter(obj => obj.completed == false);
     numAct = result.length
       
        this.props.dispatch({
@@ -55,7 +55,7 @@ class Details extends Component  {
   
   componentDidMount(){
     var numAct;
-    const result = this.props.user.UserActivitis.filter(obj => obj.completed == true);
+    const result = this.props.user.UserActivitis.filter(obj => obj.completed == false);
     numAct = result.length
 
       
