@@ -1,0 +1,179 @@
+{
+    "categorias": [
+        {
+            "categoria": "FIJA",
+            "inversiones": [],
+            "cpTotalInvCantid": 0.0,
+            "cpTotalInv": 0
+        },
+        {
+            "categoria": "VALOR",
+            "inversiones": [
+                {
+                    "invNumero": "001935000021006",
+                    "invCantid": 500000.0,
+                    "Inv_FecVen": "26-03-2020 00:00:00",
+                    "cpRenInv": false
+                },
+                {
+                    "invNumero": "001935000021007",
+                    "invCantid": 400000.0,
+                    "Inv_FecVen": "27-03-2020 00:00:00",
+                    "cpRenInv": false
+                },
+                {
+                    "invNumero": "001935000021008",
+                    "invCantid": 500000.0,
+                    "Inv_FecVen": "27-07-2020 00:00:00",
+                    "cpRenInv": false
+                },
+                {
+                    "invNumero": "001935000021009",
+                    "invCantid": 400000.0,
+                    "Inv_FecVen": "14-09-2020 00:00:00",
+                    "cpRenInv": false
+                },
+                {
+                    "invNumero": "001935000021009",
+                    "invCantid": 400000.0,
+                    "Inv_FecVen": "14-09-2020 00:00:00",
+                    "cpRenInv": false
+                },
+                {
+                    "invNumero": "001935000021009",
+                    "invCantid": 400000.0,
+                    "Inv_FecVen": "14-09-2020 00:00:00",
+                    "cpRenInv": false
+                },
+                {
+                    "invNumero": "001935000021009",
+                    "invCantid": 400000.0,
+                    "Inv_FecVen": "14-09-2020 00:00:00",
+                    "cpRenInv": false
+                },
+                {
+                    "invNumero": "001935000021009",
+                    "invCantid": 400000.0,
+                    "Inv_FecVen": "14-09-2020 00:00:00",
+                    "cpRenInv": false
+                },
+                {
+                    "invNumero": "001935000021009",
+                    "invCantid": 400000.0,
+                    "Inv_FecVen": "14-09-2020 00:00:00",
+                    "cpRenInv": false
+                },
+                {
+                    "invNumero": "001935000021009",
+                    "invCantid": 400000.0,
+                    "Inv_FecVen": "14-09-2020 00:00:00",
+                    "cpRenInv": false
+                },
+                {
+                    "invNumero": "001935000021009",
+                    "invCantid": 400000.0,
+                    "Inv_FecVen": "14-09-2020 00:00:00",
+                    "cpRenInv": false
+                },
+                {
+                    "invNumero": "001935000021009",
+                    "invCantid": 400000.0,
+                    "Inv_FecVen": "14-09-2020 00:00:00",
+                    "cpRenInv": false
+                },
+                {
+                    "invNumero": "001935000021009",
+                    "invCantid": 400000.0,
+                    "Inv_FecVen": "14-09-2020 00:00:00",
+                    "cpRenInv": false
+                },
+                {
+                    "invNumero": "001935000021009",
+                    "invCantid": 400000.0,
+                    "Inv_FecVen": "14-09-2020 00:00:00",
+                    "cpRenInv": false
+                },
+                {
+                    "invNumero": "001935000021009",
+                    "invCantid": 400000.0,
+                    "Inv_FecVen": "14-09-2020 00:00:00",
+                    "cpRenInv": false
+                },
+                {
+                    "invNumero": "001935000021009",
+                    "invCantid": 400000.0,
+                    "Inv_FecVen": "14-09-2020 00:00:00",
+                    "cpRenInv": false
+                },
+                {
+                    "invNumero": "001935000021009",
+                    "invCantid": 400000.0,
+                    "Inv_FecVen": "14-09-2020 00:00:00",
+                    "cpRenInv": false
+                },
+                {
+                    "invNumero": "001935000021009",
+                    "invCantid": 400000.0,
+                    "Inv_FecVen": "14-09-2020 00:00:00",
+                    "cpRenInv": false
+                },
+                {
+                    "invNumero": "001935000021009",
+                    "invCantid": 400000.0,
+                    "Inv_FecVen": "14-09-2020 00:00:00",
+                    "cpRenInv": false
+                },
+                {
+                    "invNumero": "001935000021009",
+                    "invCantid": 400000.0,
+                    "Inv_FecVen": "14-09-2020 00:00:00",
+                    "cpRenInv": false
+                },
+                {
+                    "invNumero": "001935000021009",
+                    "invCantid": 400000.0,
+                    "Inv_FecVen": "14-09-2020 00:00:00",
+                    "cpRenInv": false
+                },
+                {
+                    "invNumero": "001935000021009",
+                    "invCantid": 400000.0,
+                    "Inv_FecVen": "14-09-2020 00:00:00",
+                    "cpRenInv": false
+                },
+                {
+                    "invNumero": "001935000021009",
+                    "invCantid": 400000.0,
+                    "Inv_FecVen": "14-09-2020 00:00:00",
+                    "cpRenInv": false
+                },
+                {
+                    "invNumero": "001935000021009",
+                    "invCantid": 400000.0,
+                    "Inv_FecVen": "14-09-2020 00:00:00",
+                    "cpRenInv": false
+                },
+                {
+                    "invNumero": "001935000021009",
+                    "invCantid": 400000.0,
+                    "Inv_FecVen": "14-09-2020 00:00:00",
+                    "cpRenInv": false
+                }
+            ],
+            "cpTotalInvCantid": 1800000.0,
+            "cpTotalInv": 4
+        },
+        {
+            "categoria": "PAGARE",
+            "inversiones": [],
+            "cpTotalInvCantid": 0.0,
+            "cpTotalInv": 0
+        },
+        {
+            "categoria": "CEDE_RI",
+            "inversiones": [],
+            "cpTotalInvCantid": 0.0,
+            "cpTotalInv": 0
+        }
+    ]
+}
